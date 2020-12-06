@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157686929552",
+    "firebase_url": "https://highrestauapp.firebaseio.com",
+    "project_id": "highrestauapp",
+    "storage_bucket": "highrestauapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157686929552:android:6905ed1f564a2446fe6015",
+        "android_client_info": {
+          "package_name": "com.example.highrestau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157686929552-10emt4slva9a7j6g6knhvvn8p1fme0ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjsELy_xn-TQhAI5HOsFuVQeBNnyJolGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157686929552-10emt4slva9a7j6g6knhvvn8p1fme0ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

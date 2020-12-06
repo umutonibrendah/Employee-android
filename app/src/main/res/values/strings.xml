@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Employeeappt</string>
+    <string name="fullname" translatable="false">Enter FullName</string>
+    <string name="app_register" translatable="false">register</string>
+    <string name="update" translatable="false">update</string>
+    <string name="delete" translatable="false">delete</string>
+    <String name="email">Enter Email</String>
+    <String name="password">Enter Password</String>
+    <String name="phone">Enter phone</String>
+    <String name="dept">Enter dept</String>
+    <String name="address">Enter address</String>
+    <String name="update">Enter Update</String>
+    <String name="delete">Enter Delete</String>
+</resources>
